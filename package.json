@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "netlify dev",
-    "build": "mkdir -p public && echo 'Build complete'"
+    "build": "mkdir -p public && cp berdevision-4.html public/index.html"
   },
   "keywords": ["portfolio", "berdevision"],
   "author": "Berdevision",
