@@ -2,9 +2,45 @@
   "videos": [
     {
       "id": 1,
-      "vimeoId": "1203256076",
       "title": "Test Video",
-      "description": "Test video embed"
+      "vimeoId": "1203256076",
+      "category": "video",
+      "description": "A showcase of work"
+    },
+    {
+      "id": 2,
+      "title": "Coming Soon",
+      "vimeoId": "",
+      "category": "video",
+      "description": "More videos coming"
+    },
+    {
+      "id": 3,
+      "title": "Coming Soon",
+      "vimeoId": "",
+      "category": "video",
+      "description": "More videos coming"
+    },
+    {
+      "id": 4,
+      "title": "Coming Soon",
+      "vimeoId": "",
+      "category": "video",
+      "description": "More videos coming"
+    },
+    {
+      "id": 5,
+      "title": "Coming Soon",
+      "vimeoId": "",
+      "category": "video",
+      "description": "More videos coming"
+    },
+    {
+      "id": 6,
+      "title": "Coming Soon",
+      "vimeoId": "",
+      "category": "video",
+      "description": "More videos coming"
     }
   ]
 }
